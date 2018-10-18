@@ -1,0 +1,33 @@
+nav {
+    background-color: #E5E7E9;
+    height: 20vh;
+}
+#box {
+    background-color: #85C1E9;
+    height: 18vh;
+    width: 18vh;
+    margin: 1vh 2vh;
+    float: left;
+}
+section {
+    height: 30vh;
+}
+p {
+    margin: 8vh 3vh;
+    font: 30px sans-serif; 
+}
+div {
+    height: 12vh;
+}
+.blue {
+    background-color: #85C1E9;
+}
+.blue-green {
+    background-color: #76D7C4;
+}
+.green-yello {
+    background-color: #ABEBC6;   
+}
+.yellow {
+    background-color: #F9E79F;
+}
