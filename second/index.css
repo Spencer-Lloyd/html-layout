@@ -1,0 +1,57 @@
+section {
+    height: 33vh;
+}
+.top {
+    border: 5px solid black;
+    margin: 5px;
+    padding: 5px;
+}
+.middle {
+    border: 5px dotted green;
+    margin: 8px 5px;
+    
+}
+.purple {
+    background-color: blueviolet;
+    height: 20vh;
+    width: 5vh;
+    display: inline-block;
+    margin-top: 120px;
+}
+.green {
+    background-color: green;
+    height: 30vh;
+    width: 40vh;
+    display: inline-block;
+    margin: 2px 20px;
+}
+.blue {
+    background-color: blue;
+    height: 30vh;
+    width: 30vh;
+    display: inline-block;
+    border-radius: 50%;
+}
+.box {
+    background-color: #FCF3CF;
+    height: 25vh;
+    width: 90vh;
+    margin: auto;
+    margin-top: 25px;
+    box-shadow: 5px 5px 5px gray;
+
+}
+.card {
+    border: thin solid gray;
+    height: 30vh;
+    width: 60vh;
+    box-shadow: 2px 2px 2px gray;
+    margin: auto;
+    margin-top: 25px;
+}
+h1 {
+    margin-left: 100px;
+    margin-top: 100px;
+    font-size: 60px;
+    color: blue;
+}
