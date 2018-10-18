@@ -1,0 +1,23 @@
+nav {
+    height: 100px;
+    background-color: gray;
+}
+section {
+    background-color: lightgray;
+    height: 100vh;
+    width: 20%;
+    display: inline-block;
+}
+.left {
+    float: left;
+}
+.right {
+    float: right;
+}
+.footer {
+    background-color: black;
+    height: 100px;
+    width: 60%;
+    margin-top: 90vh;
+    
+}
